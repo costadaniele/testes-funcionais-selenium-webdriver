@@ -31,3 +31,11 @@
 		  <version>3.4.0</version>
 	  </dependency>
   </dependencies>`
+  
+  <p>src/main/java</p>
+  
+  `Java Class`
+  
+  <p>JUnit</p>
+  
+  `@Test`
